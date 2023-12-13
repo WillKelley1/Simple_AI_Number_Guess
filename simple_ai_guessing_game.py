@@ -1,7 +1,4 @@
 # Simple Guessing Game AI Program 
-
-
-
 def simple_ai_guessing_game(low, high):
     attempts = 0
     print(f"Think of a number between {low} and {high} for the AI to guess.")
